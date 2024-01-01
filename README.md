@@ -11,13 +11,14 @@
 
 * 🎓 I’m currently studying at Udayana University majoring in Computer Science.
 
-* 💻 I’m a open-source enthusiast.
+* ⚡ I’m on my way to mastered the art of Javascript (lie).
 
-* ⚡ I’m on my way to mastered the art of Javascript.
+</br>
+<div align="left">
 
-* 👀 I spend most of my freetime daydreaming.
-
-</br></br></br></br>
+![dash4k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+</div>
+</br>
 <h3 align="center" >How to reach me 📫</h3>
 
 <p align="center">
