@@ -1,4 +1,8 @@
-![header](https://github.com/dash4k/dash4k/assets/133938416/3ca46025-3f21-4724-b9e5-01993168a30d)
+<div align="center">
+
+  ![header](https://github.com/dash4k/dash4k/assets/133938416/3ca46025-3f21-4724-b9e5-01993168a30d)
+
+</div>
 
 <!--
 **dash4k/dash4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
