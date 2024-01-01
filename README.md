@@ -7,11 +7,11 @@
 </div>
 </br>
 
-### 📝 About Me
+### 🥷 About Me
 
 * 🎓 I’m currently studying at Udayana University majoring in Computer Science.
 
-* ⚡ I’m on my way to mastered the art of Javascript (lie).
+* 📋 I’m on my way to mastered the art of Javascript (lie).
 
 </br>
 <div align="left">
