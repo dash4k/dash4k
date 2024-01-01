@@ -1,5 +1,5 @@
 <h1 align="center">おす❗ </h1>
-<h3 align="center">Hey there, my name is Danishwara Pracheta, but you can call me Dash!</h3>
+<h3 align="center">Hey there, my name is Danishwara, but you can call me Dash!</h3>
 </br></br>
 
 <div align="right">
