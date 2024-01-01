@@ -19,7 +19,7 @@
 ![dash4k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 </div>
 </br>
-<h3 align="center" >How to reach me 📫</h3>
+<h3 align="center" >How to reach me 📩</h3>
 
 <p align="center">
 
