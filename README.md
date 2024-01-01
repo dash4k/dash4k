@@ -22,7 +22,7 @@
 
 * 🌱 I’m currently learning C and Javascript.
 
-* 👀 I spend most of my freetime learning about graphic design
+* 👀 I spend most of my freetime daydreaming
 
 </br></br></br></br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
