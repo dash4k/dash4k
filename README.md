@@ -3,7 +3,7 @@
 </br></br>
 
 <div align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/dash4k/dash4k/assets/133938416/3ca46025-3f21-4724-b9e5-01993168a30d">
+  <img align="right" top="500" height="500" width="500" src="https://github.com/dash4k/dash4k/assets/133938416/9c4e0125-906d-4d3d-806c-19ea97aeed44">
 </div>
 </br>
 
