@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋</h1>
-<h3 align="center">My name is Danishwara Pracheta, but you can call me Dash!</h3>
+<h1 align="center">おす❗ </h1>
+<h3 align="center">Hey there, my name is Danishwara Pracheta, but you can call me Dash!</h3>
 </br></br>
 
 <div align="right">
@@ -24,13 +24,13 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dash4k/">
-			<img src="https://img.icons8.com/officel/48/linkedin.png"></a>
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--         <a style="margin-left: 10px;" target="_blank" href="https://github.com/dash4k">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> -->
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23180803/danishwara-pracheta">
-				<img src="https://img.icons8.com/color-glass/48/stackoverflow.png"></a>
+				<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/404631156068188170">
-			<img src="https://img.icons8.com/fluency/48/discord-new-logo.png"></a>
+			<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
       </div>
 
 </p>
