@@ -1,12 +1,5 @@
-<div align="center">
-  
-  <img align="center" src="https://github.com/dash4k/dash4k/assets/133938416/7f6bd274-7157-4c6b-bca1-2c771f81a229">
-  
-</div>
-</br>
-
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"></h1>
-<h3 align="center">My name is Danishwara Pracheta, but you can call me Dash</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">My name is Danishwara Pracheta, but you can call me Dash!</h3>
 </br></br>
 
 <div align="center">
@@ -14,7 +7,7 @@
 </div>
 </br>
 
-### 📝 ABOUT ME
+### 📝 About Me
 
 * 🎓 I’m currently studying at Udayana University majoring in Computer Science.
 
