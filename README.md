@@ -20,7 +20,7 @@
 
 * 💻 I’m a open-source enthusiast.
 
-* 🌱 I’m currently learning C and Javascript.
+* 🌱 I’m currently on my way to mastered the art of Javascript.
 
 * 👀 I spend most of my freetime daydreaming.
 
