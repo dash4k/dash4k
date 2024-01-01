@@ -2,7 +2,7 @@
 <h3 align="center">My name is Danishwara Pracheta, but you can call me Dash!</h3>
 </br></br>
 
-<div align="center">
+<div align="right">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/dash4k/dash4k/assets/133938416/3ca46025-3f21-4724-b9e5-01993168a30d">
 </div>
 </br>
