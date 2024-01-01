@@ -16,7 +16,7 @@
 
 ### 📝 ABOUT ME
 
-* 🎓 I’m currently studying at Udayana University majoring on Computer Science
+* 🎓 I’m currently studying at Udayana University, majoring in Computer Science
 
 * 💻 I’m a open-source enthusiast.
 
