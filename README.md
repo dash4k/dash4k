@@ -17,7 +17,7 @@
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact">
-<img align="center" height="200" width="300" src="https://github.com/dash4k/dash4k/assets/133938416/ee066975-6de0-438c-a20a-b9eea854b883">
+<img align="center" height="100" width="100" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2">
 
 </div>
 </br>
