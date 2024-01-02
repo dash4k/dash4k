@@ -14,10 +14,10 @@
 * 📋 I’m on my way to mastered the art of Javascript (lie).
 
 </br>
-<picture align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact">
-	<img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2">
-</picture>
+<div align="left">
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact"></a>
+	<a href="#"><img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
+</div>
 
 <h3 align="center" >How to reach me 📩</h3>
 
