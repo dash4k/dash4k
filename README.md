@@ -2,9 +2,9 @@
 <h3 align="center">Hey there my name is Danishwara, but you can call me Dash!</h3>
 </br></br>
 
-<div align="right">
+<picture align="right">
   <img align="right" top="500" height="500" width="300" src="https://github.com/dash4k/dash4k/assets/133938416/9c4e0125-906d-4d3d-806c-19ea97aeed44">
-</div>
+</picture>
 </br>
 
 ### 🥷 About Me
@@ -14,10 +14,10 @@
 * 📋 I’m on my way to mastered the art of Javascript (lie).
 
 </br>
-<div align="left">
+<picture align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact">
 	<img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2">
-</div>
+</picture>
 
 <h3 align="center" >How to reach me 📩</h3>
 
