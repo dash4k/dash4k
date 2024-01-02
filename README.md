@@ -20,7 +20,7 @@
 <img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2">
 
 </div>
-</br>
+
 <h3 align="center" >How to reach me 📩</h3>
 
 <p align="center">
