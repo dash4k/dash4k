@@ -16,7 +16,9 @@
 </br>
 <div align="left">
 
-![dash4k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+<img align="center" height="200" width="300" src="https://github.com/dash4k/dash4k/assets/133938416/ee066975-6de0-438c-a20a-b9eea854b883">
+
 </div>
 </br>
 <h3 align="center" >How to reach me 📩</h3>
