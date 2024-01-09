@@ -15,8 +15,8 @@
 
 </br>
 <div align="left">
-	<a href="https://github.com/dash4k?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact"></a>
-	<a href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
+	<a target="_blank" href="https://github.com/dash4k?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact"></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
 </div>
 
 <h3 align="center" >How to reach me 📩</h3>
@@ -24,9 +24,9 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dash4k/">
+        <a target="_blank" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dash4k/">
 			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/404631156068188170">
+        <a target="_blank" style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/404631156068188170">
 			<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
       </div>
 
