@@ -29,7 +29,7 @@
         <a target="_blank" style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/404631156068188170">
 			<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=e02a12c&color=2e2e2e"></a>
         <a target="_blank" style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_dash4k_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-			<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=405DE6&color=2e2e2e"></a>
+			<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=e87d3e&color=2e2e2e"></a>
       </div>
 
 </p>
