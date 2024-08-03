@@ -19,10 +19,8 @@
 	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="center" height="150" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
 </div>
 
-<h3 align="center" >How to reach me 📩</h3>
-
 <p align="center">
-
+<h3 align="center" >How to reach me 📩</h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a target="_blank" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dash4k/">
 			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=2e2e2e"></a>
