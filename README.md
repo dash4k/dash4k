@@ -1,6 +1,6 @@
 <h1 align="center">おす❗ </h1>
 <h3 align="center">Hey there my name is Danishwara, but you can call me Dash!</h3>
-</br></br>
+
 
 <picture align="right">
   <img align="right" height="400" width="300" src="https://leetcard.jacoblin.cool/Dash4k?theme=dark&font=PT%20Mono&ext=activity">
