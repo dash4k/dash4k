@@ -3,7 +3,7 @@
 
 
 <picture align="right">
-  <img align="right" height="400" width="300" src="https://leetcard.jacoblin.cool/Dash4k?theme=dark&font=PT%20Mono&ext=activity">
+  <img align="right" height="400" width="300" src="https://leetcard.jacoblin.cool/Dash4k?theme=dark&font=Copse&ext=activity">
 </picture>
 </br>
 
@@ -15,7 +15,7 @@
 
 </br>
 <div align="left">
-	<a target="_blank" href="https://github.com/dash4k?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=monokai&show_icons=true&hide_border=true&layout=compact"></a>
+	<a target="_blank" href="https://github.com/dash4k?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=dark&show_icons=true&hide_border=true&layout=compact"></a>
 	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="center" height="250" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
 </div>
 
