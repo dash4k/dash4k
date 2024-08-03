@@ -11,7 +11,7 @@
 
 * 🎓 Currently studying Computer Science at Udayana University.
 
-* 📷 Intrested in the art of Photography
+* 📷 Intrested in the art of Photography.
 
 </br>
 <div align="left">
