@@ -3,7 +3,7 @@
 
 
 <picture align="right">
-  <a href="https://leetcode.com/u/Dash4k/"><img align="right" height="400" width="305" src="https://leetcard.jacoblin.cool/Dash4k?theme=dark&font=Copse&ext=activity"></a>
+  <a href="https://leetcode.com/u/dash4k/"><img align="right" height="400" width="305" src="https://leetcard.jacoblin.cool/dash4k?theme=dark&font=Copse&ext=activity"></a>
 </picture>
 </br>
 
