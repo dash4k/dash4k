@@ -1,6 +1,11 @@
-<h1 align="center">おす❗ </h1>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1> おす❗ </h1>
+    </summary>
+  </ul>
+</div>
 <h3 align="center">Hey there my name is Danishwara, but you can call me Dash!</h3>
-
 
 <picture align="right">
   <a href="https://leetcode.com/u/dash4k/"><img align="right" height="400" width="305" src="https://leetcard.jacoblin.cool/dash4k?theme=dark&font=Copse&ext=activity"></a>
