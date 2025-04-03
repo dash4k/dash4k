@@ -7,9 +7,9 @@
 </div>
 <h3 align="center">Hey there my name is Danishwara, but you can call me Dash!</h3>
 
-<picture align="right">
-  <a href="https://leetcode.com/u/dash4k/"><img align="right" height="400" width="305" src="https://leetcard.jacoblin.cool/dash4k?theme=dark&font=Copse&ext=activity"></a>
-</picture>
+<div align="right">
+	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="right" height="550" width="225" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
+</div>
 </br>
 
 ### 🥷 About Me
@@ -21,7 +21,6 @@
 </br>
 <div align="left">
 	<a target="_blank" href="https://github.com/dash4k?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=dark&show_icons=true&hide_border=true&layout=compact"></a>
-	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="center" height="250" width="200" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
 </div>
 
 <p align="center">
