@@ -8,7 +8,7 @@
 <h3 align="center">Hey there my name is Danishwara, but you can call me Dash!</h3>
 
 <div align="right">
-	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="right" height="550" width="225" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=4xnsmyI5KMQ"><img align="right" height="350" width="225" src="https://github.com/dash4k/dash4k/assets/133938416/cc694143-e1e4-419c-89bc-c7873f9f99d2"></a>
 </div>
 </br>
 
