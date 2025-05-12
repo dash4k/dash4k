@@ -32,7 +32,7 @@ Outside the coding stuff, I also have an interest in cybersecurity and network e
 
 <br>
 
-### Languages that I have work on:
+### Languages that I have worked on:
 
 <div>
 	<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&color=ff0000&logoColor=black">
@@ -46,7 +46,7 @@ Outside the coding stuff, I also have an interest in cybersecurity and network e
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&color=ff0000&logoColor=black">
 </div>
 
-### Frameworks and other tools that I have work on:
+### Frameworks and other tools that I have worked on:
 
 <div>
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&color=ff0000&logoColor=black"> 
@@ -63,7 +63,7 @@ Outside the coding stuff, I also have an interest in cybersecurity and network e
 
 <br>
 
-### My statistics:
+### My github statistics:
 
 <div>
 
