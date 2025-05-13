@@ -1,8 +1,10 @@
 ### Now Playing,
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=3000&pause=7000&color=E71D36FF&vCenter=true&random=true&width=1500&lines=%22Any+Other+Way%22+%E2%80%94+Particle+House;%22I+Don't+Mind%22+%E2%80%94+Particle+House;%22Take+A+Change+With+Me%22+%E2%80%94+NIKI;%22Backburner%22+%E2%80%94+NIKI;%22Dia%22+%E2%80%94+Sheila+Majid;%22Telephones%22+%E2%80%94+Vacations;%22Midwest%22+%E2%80%94+Vacations)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=10000&color=E7E7E7&vCenter=true&random=true&width=2000&lines=.%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1.)](https://git.io/typing-svg)►‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▯▯▯
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&height=70&duration=3000&pause=7000&color=E71D36FF&vCenter=true&random=true&width=1500&lines=%22Any+Other+Way%22+%E2%80%94+Particle+House;%22I+Don't+Mind%22+%E2%80%94+Particle+House;%22Take+A+Change+With+Me%22+%E2%80%94+NIKI;%22Backburner%22+%E2%80%94+NIKI;%22Dia%22+%E2%80%94+Sheila+Majid;%22Telephones%22+%E2%80%94+Vacations;%22Midwest%22+%E2%80%94+Vacations)](https://github.com/dash4k)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&height=50&duration=10000&color=E7E7E7&vCenter=true&random=true&width=2000&lines=.%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1.)](https://github.com/dash4k)
+<br><br>
+◃◃ ‎ ⅠⅠ ‎ ▹▹ ‎  ‎  ‎  ‎  ‎ ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▯▯▯
 <br><br><br>
 
 ---
