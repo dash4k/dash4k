@@ -1,7 +1,7 @@
 ### Now Playing,
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&height=70&duration=3000&pause=7000&color=E71D36FF&vCenter=true&random=true&width=1500&lines=%22Any+Other+Way%22+%E2%80%94+Particle+House;%22I+Don't+Mind%22+%E2%80%94+Particle+House;%22Take+A+Change+With+Me%22+%E2%80%94+NIKI;%22Backburner%22+%E2%80%94+NIKI;%22Dia%22+%E2%80%94+Sheila+Majid;%22Telephones%22+%E2%80%94+Vacations;%22Midwest%22+%E2%80%94+Vacations)](https://github.com/dash4k)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=700&size=40&height=70&duration=1&pause=10000&color=E71D36FF&vCenter=true&random=true&width=1500&lines=%22Any+Other+Way%22+%E2%80%94+Particle+House;%22I+Don%27t+Mind%22+%E2%80%94+Particle+House;%22Take+A+Change+With+Me%22+%E2%80%94+NIKI;%22Backburner%22+%E2%80%94+NIKI;%22Dia%22+%E2%80%94+Sheila+Majid;%22Telephones%22+%E2%80%94+Vacations;%22Midwest%22+%E2%80%94+Vacations;%22%E3%82%AE%E3%83%95%E3%83%88%22+%E2%80%94+%E3%82%82%E3%81%95%E3%82%92;%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84%22+%E2%80%94+%E3%82%82%E3%81%95%E3%82%92;%22%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B%22+%E2%80%94+YOASOBI;%22%E6%80%AA%E7%89%A9%22+%E2%80%94+YOASOBI)](https://github.com/dash4k)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&height=50&duration=10000&color=E7E7E7&vCenter=true&random=true&width=2000&lines=.%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1%C4%B1l%C4%B1l%C4%B1lll%C4%B1%C4%B1l%C4%B1l%C4%B1llll%C4%B1%C4%B1l%C4%B1lll%C4%B1ll%C4%B1.)](https://github.com/dash4k)
 <br><br>
 ◃◃ ‎ ⅠⅠ ‎ ▹▹ ‎  ‎  ‎  ‎  ‎ ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▯▯▯
