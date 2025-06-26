@@ -60,15 +60,3 @@ Outside the coding stuff, I also have an interest in cybersecurity and network e
 	<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&color=a31919&logoColor=black">
 </div>
 <br><br>
-
----
-
-<br>
-
-### My github statistics:
-
-<div>
-
-<img width="280" src="https://github-readme-stats.vercel.app/api?username=dash4k&theme=graywhite&show_icons=true&hide_border=false&count_private=true">
-<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dash4k&theme=graywhite&hide_border=false">
-<img width="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dash4k&theme=graywhite&show_icons=true&hide_border=false&layout=compact">
