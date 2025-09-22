@@ -22,9 +22,9 @@ Outside the coding stuff, I also have an interest in cybersecurity and network e
 </p>
 
 
-<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/404631156068188170">
+<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://discordapp.com/users/danishwara4k">
 			<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=&logoColor=ffffff&color=a31919"></a>
-<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/___dash4k/">
+<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/danishwara4k/">
 			<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=ffffff&color=a31919"></a>
 <a target="_blank" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dash4k/">
 			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=ffffff&color=a31919"></a>
