@@ -15,7 +15,7 @@
 
 My name is **Danishwara**, but you can call me **Dash**.
 <p align="justify">
-I'm currently Computer Science undergrad from Indonesia. I like programming in general, but for some time now I've started doing web programming, especially back-end development. I also have a strong interest in game development. Outside the coding stuff, I like to do photography once in a while.
+I'm a Computer Science undergrad from Indonesia. I like programming in general, but for some time now I've started doing web programming, especially back-end development. I also have a strong interest in game development. Outside the coding stuff, I like to do photography once in a while.
 </p>
 <p align="justify">
 If you have similar interests as me, feel free to hit me up!
